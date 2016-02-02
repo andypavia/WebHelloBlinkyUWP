@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KIRIL-DESKTOP</Machine>
+    <WindowsUser>kiseksen</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a3ffc740-b658-4c62-b325-b370fbc22383</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>563105CC40941E9C19558601CCBF1E1F278A3580A16DAFDB41C66E16730F8BED</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a3ffc740-b658-4c62-b325-b370fbc22383_1.0.0.0_neutral__ztz20nxghjvk8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a3ffc740-b658-4c62-b325-b370fbc22383_ztz20nxghjvk8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a3ffc740-b658-4c62-b325-b370fbc22383</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kiseksen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-15T22:18:55.332</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\images\RaspberryPi.png">
+      <PackagePath>images\RaspberryPi.png</PackagePath>
+      <Modified>2016-01-15T22:13:26.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T06:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T06:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T06:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T06:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T06:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T06:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-05T06:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+      <Modified>2016-01-15T21:55:54.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+      <Modified>2015-09-21T18:31:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+      <Modified>2015-09-21T18:31:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-15T22:18:55.082</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

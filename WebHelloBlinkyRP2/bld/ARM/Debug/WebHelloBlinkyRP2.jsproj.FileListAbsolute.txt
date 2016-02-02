@@ -1,0 +1,32 @@
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\ARM\Debug\ReverseMap\resources.pri
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\ARM\Debug\AppxManifest.xml
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\ARM\Debug\WebHelloBlinkyRP2.build.appxrecipe
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\ResourceHandlingTask.state
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\priconfig.xml
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\priconfig.xml.intermediate
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\layout.resfiles
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\layout.resfiles.intermediate
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\resources.resfiles
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\resources.resfiles.intermediate
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\pri.resfiles
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\pri.resfiles.intermediate
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\qualifiers.txt
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kiseksen\Documents\Visual Studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\ProjectArchitectures.txt
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\ARM\Debug\ReverseMap\resources.pri
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\ARM\Debug\AppxManifest.xml
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\ARM\Debug\WebHelloBlinkyRP2.build.appxrecipe
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\ResourceHandlingTask.state
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\priconfig.xml
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\priconfig.xml.intermediate
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\layout.resfiles
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\layout.resfiles.intermediate
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\resources.resfiles
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\resources.resfiles.intermediate
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\pri.resfiles
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\pri.resfiles.intermediate
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\qualifiers.txt
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\ARM\Debug\ProjectArchitectures.txt

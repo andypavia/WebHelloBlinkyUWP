@@ -1,0 +1,1 @@
+C:\Users\apavia\dev\meteorOnPi\WebHelloBlinkyRP2\WebHelloBlinkyRP2\WebHelloBlinkyRP2.jsproj;arm

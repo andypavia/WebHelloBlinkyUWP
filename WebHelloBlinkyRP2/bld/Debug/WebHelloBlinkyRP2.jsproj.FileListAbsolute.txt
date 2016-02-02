@@ -1,0 +1,16 @@
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\Debug\ReverseMap\resources.pri
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\Debug\AppxManifest.xml
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bin\Debug\WebHelloBlinkyRP2.build.appxrecipe
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\ResourceHandlingTask.state
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\priconfig.xml
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\priconfig.xml.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\layout.resfiles
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\layout.resfiles.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\resources.resfiles
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\resources.resfiles.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\pri.resfiles
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\pri.resfiles.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\qualifiers.txt
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\qualifiers.txt.intermediate
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\kiseksen\documents\visual studio 2015\Projects\WebHelloBlinkyRP2\WebHelloBlinkyRP2\bld\Debug\ProjectArchitectures.txt
